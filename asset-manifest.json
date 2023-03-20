@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OpenUp--End-the-Silence/static/css/main.c5dfdf01.css",
+    "main.js": "/OpenUp--End-the-Silence/static/js/main.2779ea39.js",
+    "index.html": "/OpenUp--End-the-Silence/index.html",
+    "main.c5dfdf01.css.map": "/OpenUp--End-the-Silence/static/css/main.c5dfdf01.css.map",
+    "main.2779ea39.js.map": "/OpenUp--End-the-Silence/static/js/main.2779ea39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5dfdf01.css",
+    "static/js/main.2779ea39.js"
+  ]
+}
